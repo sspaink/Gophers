@@ -1,2 +1,3 @@
-# Gophers
-Gopher Artwork by Sebastian Spaink
+# Gopher Artwork
+
+![collage](collage.png)
